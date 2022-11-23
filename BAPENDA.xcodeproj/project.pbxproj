@@ -7,11 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5AE09326292EB0F3004A1A55 /* register_data_akun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE09325292EB0F3004A1A55 /* register_data_akun.swift */; };
+		5AE09328292EB2F7004A1A55 /* register_foto_akun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE09327292EB2F7004A1A55 /* register_foto_akun.swift */; };
+		5AE0932A292EB6D7004A1A55 /* register_foto_akun_sukses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE09329292EB6D7004A1A55 /* register_foto_akun_sukses.swift */; };
+		5AE0932C292EBDCA004A1A55 /* register_aktivasi_email.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE0932B292EBDCA004A1A55 /* register_aktivasi_email.swift */; };
+		5AE0932E292EC021004A1A55 /* register_aktivasi_email_berhasil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE0932D292EC021004A1A55 /* register_aktivasi_email_berhasil.swift */; };
+		5AE09332292EC437004A1A55 /* home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE09331292EC437004A1A55 /* home.swift */; };
+		5AE09334292ED129004A1A55 /* main_view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE09333292ED129004A1A55 /* main_view.swift */; };
 		5AE4BFCC292827A10019C320 /* welcome_page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE4BFCB292827A10019C320 /* welcome_page.swift */; };
 		5AE4BFCE292827F10019C320 /* sign_in.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE4BFCD292827F10019C320 /* sign_in.swift */; };
 		5AE4BFD02928281B0019C320 /* register.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE4BFCF2928281B0019C320 /* register.swift */; };
 		8D17F0C5292819E500BBE749 /* BAPENDAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D17F0C4292819E500BBE749 /* BAPENDAApp.swift */; };
-		8D17F0C7292819E500BBE749 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D17F0C6292819E500BBE749 /* ContentView.swift */; };
 		8D17F0C9292819E900BBE749 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D17F0C8292819E900BBE749 /* Assets.xcassets */; };
 		8D17F0CD292819E900BBE749 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D17F0CC292819E900BBE749 /* Preview Assets.xcassets */; };
 		8D17F0D7292819E900BBE749 /* BAPENDATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D17F0D6292819E900BBE749 /* BAPENDATests.swift */; };
@@ -37,12 +43,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5AE09325292EB0F3004A1A55 /* register_data_akun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = register_data_akun.swift; sourceTree = "<group>"; };
+		5AE09327292EB2F7004A1A55 /* register_foto_akun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = register_foto_akun.swift; sourceTree = "<group>"; };
+		5AE09329292EB6D7004A1A55 /* register_foto_akun_sukses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = register_foto_akun_sukses.swift; sourceTree = "<group>"; };
+		5AE0932B292EBDCA004A1A55 /* register_aktivasi_email.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = register_aktivasi_email.swift; sourceTree = "<group>"; };
+		5AE0932D292EC021004A1A55 /* register_aktivasi_email_berhasil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = register_aktivasi_email_berhasil.swift; sourceTree = "<group>"; };
+		5AE09331292EC437004A1A55 /* home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = home.swift; sourceTree = "<group>"; };
+		5AE09333292ED129004A1A55 /* main_view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main_view.swift; sourceTree = "<group>"; };
 		5AE4BFCB292827A10019C320 /* welcome_page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = welcome_page.swift; sourceTree = "<group>"; };
 		5AE4BFCD292827F10019C320 /* sign_in.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sign_in.swift; sourceTree = "<group>"; };
 		5AE4BFCF2928281B0019C320 /* register.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = register.swift; sourceTree = "<group>"; };
 		8D17F0C1292819E500BBE749 /* BAPENDA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BAPENDA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D17F0C4292819E500BBE749 /* BAPENDAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BAPENDAApp.swift; sourceTree = "<group>"; };
-		8D17F0C6292819E500BBE749 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8D17F0C8292819E900BBE749 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D17F0CA292819E900BBE749 /* BAPENDA.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BAPENDA.entitlements; sourceTree = "<group>"; };
 		8D17F0CC292819E900BBE749 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -78,6 +90,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5AE09330292EC179004A1A55 /* register */ = {
+			isa = PBXGroup;
+			children = (
+				5AE4BFCF2928281B0019C320 /* register.swift */,
+				5AE09325292EB0F3004A1A55 /* register_data_akun.swift */,
+				5AE09327292EB2F7004A1A55 /* register_foto_akun.swift */,
+				5AE09329292EB6D7004A1A55 /* register_foto_akun_sukses.swift */,
+				5AE0932B292EBDCA004A1A55 /* register_aktivasi_email.swift */,
+				5AE0932D292EC021004A1A55 /* register_aktivasi_email_berhasil.swift */,
+			);
+			path = register;
+			sourceTree = "<group>";
+		};
 		8D17F0B8292819E500BBE749 = {
 			isa = PBXGroup;
 			children = (
@@ -102,12 +127,13 @@
 			isa = PBXGroup;
 			children = (
 				8D17F0C4292819E500BBE749 /* BAPENDAApp.swift */,
-				8D17F0C6292819E500BBE749 /* ContentView.swift */,
-				8D17F0C8292819E900BBE749 /* Assets.xcassets */,
-				8D17F0CA292819E900BBE749 /* BAPENDA.entitlements */,
 				5AE4BFCB292827A10019C320 /* welcome_page.swift */,
 				5AE4BFCD292827F10019C320 /* sign_in.swift */,
-				5AE4BFCF2928281B0019C320 /* register.swift */,
+				5AE09331292EC437004A1A55 /* home.swift */,
+				5AE09333292ED129004A1A55 /* main_view.swift */,
+				5AE09330292EC179004A1A55 /* register */,
+				8D17F0CA292819E900BBE749 /* BAPENDA.entitlements */,
+				8D17F0C8292819E900BBE749 /* Assets.xcassets */,
 				8D17F0CB292819E900BBE749 /* Preview Content */,
 			);
 			path = BAPENDA;
@@ -268,11 +294,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AE09334292ED129004A1A55 /* main_view.swift in Sources */,
+				5AE09328292EB2F7004A1A55 /* register_foto_akun.swift in Sources */,
+				5AE0932A292EB6D7004A1A55 /* register_foto_akun_sukses.swift in Sources */,
 				5AE4BFCC292827A10019C320 /* welcome_page.swift in Sources */,
-				8D17F0C7292819E500BBE749 /* ContentView.swift in Sources */,
 				8D17F0C5292819E500BBE749 /* BAPENDAApp.swift in Sources */,
+				5AE0932E292EC021004A1A55 /* register_aktivasi_email_berhasil.swift in Sources */,
 				5AE4BFCE292827F10019C320 /* sign_in.swift in Sources */,
+				5AE0932C292EBDCA004A1A55 /* register_aktivasi_email.swift in Sources */,
 				5AE4BFD02928281B0019C320 /* register.swift in Sources */,
+				5AE09332292EC437004A1A55 /* home.swift in Sources */,
+				5AE09326292EB0F3004A1A55 /* register_data_akun.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +455,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = BAPENDA/BAPENDA.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -431,17 +464,20 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bapenda;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.7;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 12.6;
@@ -461,6 +497,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_ENTITLEMENTS = BAPENDA/BAPENDA.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -469,17 +506,20 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Bapenda;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleLightContent;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.7;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 12.6;
